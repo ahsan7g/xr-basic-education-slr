@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "XR SLR Extraction and Synthesis Data"
+message: "Please cite this dataset when using the workbook or derived results."
+type: dataset
+
+authors:
+  - family-names: Ahsan
+    given-names: Muhammad
+    orcid: "https://orcid.org/0000-0002-1216-2707"
+  - family-names: Silva
+    given-names: Lamarck F. da
+    orcid: "https://orcid.org/0009-0007-2616-0685"
+  - family-names: Colares
+    given-names: Pedro H. F.
+    orcid: "https://orcid.org/0009-0005-3785-4207"
+  - family-names: Silva
+    given-names: João P. L.
+    orcid: "https://orcid.org/0009-0001-5346-2327"
+  - family-names: Delabrida
+    given-names: Saul
+    orcid: "https://orcid.org/0000-0002-8961-5313"
+
+version: 1.0.0
+date-released: "2026-09-29"
+license: CC-BY-4.0
+keywords:
+  - extended reality
+  - systematic literature review
+  - basic education
+  - virtual reality
+  - augmented reality
+  - user experience
